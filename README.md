@@ -14,6 +14,7 @@ https://github.com/user-attachments/assets/01037355-afaa-47f9-82c3-f70d3590dd6c
 - 🎵 **Banging Tunes**: Groove to catchy music and enjoy satisfying sound effects.
 - 🎯 **Epic Challenges**: Think fast, act faster—your high score is waiting!
 - 🎨 **Customizable**: Want to tweak the colors, speed, or sounds? Go for it!
+---
 
 ## 🧩 **What Makes This Special?**  
 This isn’t just a game; it’s a playground for **Python development** and **object-oriented programming (OOP)**.  
