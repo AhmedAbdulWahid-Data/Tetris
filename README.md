@@ -5,7 +5,10 @@ A modern remake of the timeless classic, **Tetris Reloaded** showcases advanced 
 ---
 
 
-https://github.com/user-attachments/assets/01037355-afaa-47f9-82c3-f70d3590dd6c
+
+https://github.com/user-attachments/assets/88a4d71f-1c85-4dc8-9158-0d2b18cd23d0
+
+
 
 
 ## 🌟 Why You’ll Love This Game
